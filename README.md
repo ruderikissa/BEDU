@@ -1,3 +1,3 @@
-# ¡Bienvenidos! 
+# ¡Bienvenidos!
 
-Al repo de R y python con BEDU
+Al repositorio de R y Python de BEDU 
